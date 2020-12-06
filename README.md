@@ -1,4 +1,4 @@
-# SysML-Past-Class-Project-AVTS
+# SysML-Past-Class-Project-(AVTS)
 
 Applying Model Based Systems Architecture Processes to model a Micro-Transit System operated by Autonomous Vehicles(AVTS)
 
