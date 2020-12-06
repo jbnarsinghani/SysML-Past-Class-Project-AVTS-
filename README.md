@@ -13,5 +13,6 @@ System Challenges: Integrate the main computing system with signal communication
 The System Architecture shall capture functional coverage of the automated driving capabilities in a micro-transit system. In my opinion, this system is complex enought to interpret and respond to the dynamic environment within a facility. It possesses real-time behaviour owing to departure and arrival at the destination within set schedules while executing the operations of perception, motion planning and control. It enables real-time architecting on account of interactions with the surrounding environment through machine perception. Thus, overall this project can be consolidated as a broad-based autonomous ride-hailing services/ delivery service. It also enables an opportunity to practice enterprise architecting of a system ventured by industry and government partners with automakers and software giants provided within a specifically-defined area of a city under supporting weather conditions and shortfalls that shall be addressed in formally modeling the System with Cameo Systems Modeler during the course progress [2].
 
 References
+
 [1] A matter of trust. Ford’s approach to developing self-driving vehicles.
 [2] Todd Litman (2013-2019) et al Autonomous Vehicle Implementation Predictions.
