@@ -1,6 +1,6 @@
 # SysML-Past-Class-Project-AVTS
 
-Modeling a Micro-Transit System operated by Autonomous Vehicles (AVTS)
+Applying Model Based Systems Architecture Processes to model a Micro-Transit System operated by Autonomous Vehicles(AVTS)
 
 Introduction
 
