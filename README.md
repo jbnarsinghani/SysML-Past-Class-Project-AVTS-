@@ -44,7 +44,8 @@ Operational Viewpoint: The OV transforms requirements into an architectural cont
 -	Domains and their interfaces, ports annotated to describe Services that are supported and exposed.
 -	A Services Taxonomy is developed top identify internal and external Services, and allocated to Domains.
 
-Logical/ Functional Viewpoint: The LV begins with functional system design. It includes the following Perspectives:3
+Logical/ Functional Viewpoint: The LV begins with functional system design. It includes the following Perspectives[3]:
+
 •	Structural Perspective- BDDs and IBDs showing decomposition of Domains, interaction among system elements and with external entities, associated User Roles, and specifications.
 •	Behavioral Perspective:
 -	Sequence Diagrams- illustrating how groups of Blocks, User Roles, external entities, and others collaborate to realize stateless behavior. Includes timing annotation.
@@ -53,7 +54,8 @@ Logical/ Functional Viewpoint: The LV begins with functional system design. It i
 •	Services Perspective: Blocks and their interfaces, Ports annotated to describe services that are supported and exposed. Allocation of services to Blocks, Flows and Interfaces.    
 •	Contextual Perspective: A wide range of supplementary information and documents which cannot be captured in other perspectives can be assembled and incorporated into the model.
 
-Physical Viewpoint: The PV implements logical components with physical product specifications. It includes the following Perspectives:3
+Physical Viewpoint: The PV implements logical components with physical product specifications. It includes the following Perspectives[3]:
+
 •	Design Perspective: adding details to the elements of the functional viewpoint to document architecture implementation in a point design.
 •	Standards Perspective: A Standards Profile with approved protocols and standards.
 •	Data Perspective: A Physical Data Model (PDM) showing detailed design of databases.
