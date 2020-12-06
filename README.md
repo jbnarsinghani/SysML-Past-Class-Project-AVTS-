@@ -59,7 +59,7 @@ Physical Viewpoint: The PV implements logical components with physical product s
 •	Design Perspective: adding details to the elements of the functional viewpoint to document architecture implementation in a point design.
 •	Standards Perspective: A Standards Profile with approved protocols and standards.
 •	Data Perspective: A Physical Data Model (PDM) showing detailed design of databases.
-•	Services Perspective: adding detail to service interface specifications, complying with appropriate standards, to the Services Taxonomy. 
+•	Services Perspective: adding detail to service interface specifications, complying with appropriate standards, to the Services Taxonomy.
 •	Contextual Perspective- A wide range of supplementary information and documents, training material, maintenance manuals, etc. can be assembled and incorporated into the model[3].
 
 Architecture Purpose and Uses
