@@ -2,7 +2,7 @@
 
 Applying Model Based Systems Architecture Processes to model a Micro-Transit System operated by Autonomous Vehicles(AVTS)
 
-Introduction
+## Introduction
 
 This class project explicitly focusses on modelling an Architecture for the deployment of Autonomous Vehicle Technology within a micro-transit system to provide shuttle service over a short-medium distance of about 2 miles, with multiple stops. This work will reflect upon my understanding to define the autonomous vehicle operations over a small grid of routes with a couple of road intersections comprised under a 1.8 square mile area of a micro-transit system, on a real-time and frequent basis within an industrial park facility. The AVTS employs self-driving transit vehicles that perform sensory recognition, cognition/ processing, storage, judgement and control functions necessary to support safe, reliable and efficient movement of passengers. The technology is evolved from the Advanced Driver Assistance System. It enhances vehicle safety, reduces congestion, with level-4 autonomy in Connected & fully Autonomous Vehicles, deployed for easy accessibility, frequent availability, reliability, affordability and safety of commuters.
 
@@ -12,19 +12,19 @@ System Challenges: Integrate the main computing system with signal communication
 
 The System Architecture shall capture functional coverage of the automated driving capabilities in a micro-transit system. In my opinion, this system is complex enought to interpret and respond to the dynamic environment within a facility. It possesses real-time behaviour owing to departure and arrival at the destination within set schedules while executing the operations of perception, motion planning and control. It enables real-time architecting on account of interactions with the surrounding environment through machine perception. Thus, overall this project can be consolidated as a broad-based autonomous ride-hailing services/ delivery service. It also enables an opportunity to practice enterprise architecting of a system ventured by industry and government partners with automakers and software giants provided within a specifically-defined area of a city under supporting weather conditions and shortfalls that shall be addressed in formally modeling the System with Cameo Systems Modeler during the course progress[2].
 
-Architecture Development Resources
+## Architecture Development Resources
 
 The AVTS architecture is developed and maintained through the Model-Based System Architecture Process (MBSAP) implemented in Cameo Systems Modeler, V19.0 SP-3. The estimated architecture development schedule, level of effort, and other required resources are defined in the scope and statement of work provided under the project management plan[3].
 
-Scope
+## Scope
 
 The AVTS architecture is baselined in a model conforming to the Systems Modeling Language (SysML) Profile of the Unified Modeling Language (UML) and includes artifacts in accordance with the MBSAP methodology that define Operational, Logical/ Functional, and Physical Viewpoints (OV, LV, and PV). The model supports visualization of architecture data in various formats as appropriate for technical and programmatic reviews and decisions/ to meet specific stakeholder needs. The AVTS architecture model is the foundation of a Model-based System Engineering (MBSE) methodology that integrates tools, processes, and products for an efficient and effective program of development, integration, test, deployment, and support to realize system requirements.3
 
-Architecture Model and Artifacts
+## Architecture Model and Artifacts
 
 The architecture starts with a requirements baseline, which is refined and updated based on the results of the architecture analysis. It proceeds through Operational, Functional, and Physical Viewpoints, each of which is organized into Perspectives that group artifacts according to the basic aspects of the architecture such as behavior, structure, data, and services. The Operational Viewpoint transforms requirements into an architectural context and establishes the overall organization of the architecture. The Functional Viewpoint instantiates the architecture into a system design, with elements that represent each part of the system solution but without defining specific technologies, products, or standards. Finally, the Physical Viewpoint defines the implementation of the system by adding point design detail. The system then proceeds through build, integration, and test stages, and in a spiral development, the outcome of each architecture cycle is used to refine the requirements baseline and establish the functionality to be implemented. Both a physical prototype and a virtual prototype composed of various system models and simulations tie the process together and support design and analysis at each stage. The process is fully iterative[3].
 
-Primary Artifacts
+## Primary Artifacts
 
 The following are the primary artifacts to be developed and used to define the AVTS architecture:
 
@@ -62,7 +62,7 @@ Physical Viewpoint: The PV implements logical components with physical product s
 •	Services Perspective: adding detail to service interface specifications, complying with appropriate standards, to the Services Taxonomy.
 •	Contextual Perspective- A wide range of supplementary information and documents, training material, maintenance manuals, etc. can be assembled and incorporated into the model[3].
 
-Architecture Purpose and Uses
+## Architecture Purpose and Uses
 
 The purpose of the architecture is defined in terms of specific stakeholder needs to be met, like:
 •	Support to technical and programmatic decisions based on the impact of decision alternatives on overall system technical integrity and achievement of objectives.
@@ -73,14 +73,14 @@ The purpose of the architecture is defined in terms of specific stakeholder need
 •	Standards selection and application.
 •	Other system engineering processes[3].
 
-Recommendations
+## Recommendations
 
 •	The AVTS system architecture should proceed to implementation, including detailed design, integration, and test, following the methodology defined in this report.
 •	Quality Attributes should be tracked, analyzed, and reported as the basis for ensuring overall technical integrity of the solution and satisfaction of all stakeholder needs.
 •	The architecture model and artifacts, as well as virtual prototypes should be placed under rigorous configuration and change control.
 •	Other recommendations shall be added as implementation and operational support of the system proceed [3].
 
-References
+## References
 
 [1] A matter of trust. Ford’s approach to developing self-driving vehicles.
 [2] Todd Litman (2013-2019) et al Autonomous Vehicle Implementation Predictions.
